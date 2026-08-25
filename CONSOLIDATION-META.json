@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../consolidation/schemas/project-meta.schema.json",
+  "commands": {
+    "build": null,
+    "reason": "The portfolio layer does not guess commands for heterogeneous upstream projects.",
+    "smoke": null,
+    "status": "command-not-configured",
+    "test": null
+  },
+  "language": [
+    "JavaScript",
+    "Python"
+  ],
+  "license": null,
+  "name": "grid2op-master",
+  "notes": [
+    "The source checkout remains the provenance and update source for this snapshot.",
+    "Consolidation improvements are represented by the flat category layout, provenance metadata, and shared validation contracts.",
+    "License names and terms must be verified from the copied project files; this exporter does not infer a license."
+  ],
+  "origin_url": null,
+  "schema_version": "1.0",
+  "snapshot": {
+    "category": "09-power-systems-and-energy",
+    "copied_bytes": 34418430,
+    "copied_files": 2783,
+    "date": "2026-08-25",
+    "excluded_directories": [
+      "grid2op/data"
+    ],
+    "excluded_files": [],
+    "folder": "grid2op-master",
+    "kind": "independent-code-snapshot",
+    "skipped_symlinks": [],
+    "source_checkout_preserved": true,
+    "source_level_changes": false,
+    "topic": "power-grid-operation-and-reinforcement-learning"
+  },
+  "source_path": "09-power-systems-and-energy/power-grid-operation-and-reinforcement-learning/grid2op-master",
+  "status": "active"
+}
