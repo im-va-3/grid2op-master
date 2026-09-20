@@ -22,12 +22,10 @@
   "schema_version": "1.0",
   "snapshot": {
     "category": "09-power-systems-and-energy",
-    "copied_bytes": 34418430,
-    "copied_files": 2783,
+    "copied_bytes": 53213774,
+    "copied_files": 3791,
     "date": "2026-08-25",
-    "excluded_directories": [
-      "grid2op/data"
-    ],
+    "excluded_directories": [],
     "excluded_files": [],
     "folder": "grid2op-master",
     "kind": "independent-code-snapshot",
